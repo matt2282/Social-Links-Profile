@@ -1,7 +1,7 @@
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
-
+## Live URL Link: https://matt2282.github.io/Social-Links-Profile/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
